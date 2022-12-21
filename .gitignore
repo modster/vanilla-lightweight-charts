@@ -1,6 +1,11 @@
 *.code-workspace
 notes.md
 /notes
+/New*Folder*
+New Text Document*.txt
+*.log
+*.log.*
+
 
 # dependencies
 /node_modules
